@@ -65,12 +65,12 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
-twitter_show_replies: false
-twitter_follow_button: true
-twitter_show_follower_count: false
-twitter_tweet_button: true
+# twitter_user:
+# twitter_tweet_count: 4
+# twitter_show_replies: false
+# twitter_follow_button: true
+# twitter_show_follower_count: false
+# twitter_tweet_button: true
 
 # Google +1
 google_plus_one: false
@@ -82,12 +82,12 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
-pinboard_count: 3
+# pinboard_user:
+# pinboard_count: 3
 
 # Delicious
-delicious_user:
-delicious_count: 3
+# delicious_user:
+# delicious_count: 3
 
 # Disqus Comments
 disqus_short_name:
@@ -97,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+# facebook_like: false
