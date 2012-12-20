@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[luoxin.net]]></title>
+  <link href="http://luonet.github.com/atom.xml" rel="self"/>
+  <link href="http://luonet.github.com/"/>
+  <updated>2012-12-20T17:25:00+08:00</updated>
+  <id>http://luonet.github.com/</id>
+  <author>
+    <name><![CDATA[Luo Xin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
