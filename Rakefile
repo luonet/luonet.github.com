@@ -26,6 +26,37 @@ new_post_ext    = "markdown"  # default new post file extension when using the n
 new_page_ext    = "markdown"  # default new page file extension when using the new_page task
 server_port     = "5000"      # the default port 4000 conflicts on my computer with MLDonkey.
 
+js_files = [
+  '.themes/classic/source/javascripts/modernizr-2.0.js',
+  '.themes/classic/source/javascripts/ender.js',
+  '.themes/classic/source/javascripts/octopress.js'
+]
+all_js_file = '.themes/classic/source/javascripts/all.js'
+
+# 打包压缩js
+# 安装步骤：
+# 1. 安装uglifier
+#   gem install uglifier
+# 2. 安装nodejs
+#   sudo apt-get install nodejs
+# 3. 把uglifier加入项目的Gemfile中，然后执行以下代码
+desc 'Compress and pack all the javascripts'
+task :js do |t, args|
+  require 'uglifier'
+
+  compiler = Uglifier.new
+  all_js   = js_files.inject('') do |result, js_file|
+    result << compiler.compile(File.read(js_file))
+  end
+
+  File.open(all_js_file, 'w') { |f| f.puts all_js }
+end
+
+desc 'Reinstall the theme and preview'
+task :re do |t, args|
+  system 'bundle exec rake install'
+  system 'bundle exec rake preview'
+end
 
 desc "Initial setup for Octopress: copies the default theme into the path of Jekyll's generator. Rake install defaults to rake install[classic] to install a different theme run rake install[some_theme_name]"
 task :install, :theme do |t, args|
