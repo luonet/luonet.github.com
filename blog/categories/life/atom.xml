@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[luoxin.net]]></title>
-  <link href="http://luoxin.net/atom.xml" rel="self"/>
+  <title><![CDATA[Category: life | luoxin.net]]></title>
+  <link href="http://luoxin.net/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://luoxin.net/"/>
   <updated>2012-12-26T21:20:24+08:00</updated>
   <id>http://luoxin.net/</id>
@@ -18,7 +18,7 @@
     <link href="http://luoxin.net/blog/2012/12/26/new-phone/"/>
     <updated>2012-12-26T19:55:00+08:00</updated>
     <id>http://luoxin.net/blog/2012/12/26/new-phone</id>
-    <content type="html"><![CDATA[<p><img class="left" src="http://luoxin.net/images/note2.jpg" title="Note II" ></p>
+    <content type="html"><![CDATA[<p><img class="left" src="/images/note2.jpg" title="Note II" ></p>
 
 <p>终于换手机了。旧手机是联想的某款MTK机。新手机是Note II.</p>
 
@@ -27,7 +27,7 @@
 <!--more-->
 
 
-<p><img class="left" src="http://luoxin.net/images/lenovo.jpg" title="山寨机" ></p>
+<p><img class="left" src="/images/lenovo.jpg" title="山寨机" ></p>
 
 <p>但我最终还是换手机了。我偶尔需要看点电子书，偶尔在路上想听点音乐但又不想随身带个MP3，另外GPS对我也很重要——开车或去外地旅游时我不想走错路，那样真的会浪费很多时间。看来我需要一款大屏智能机。于是我有了Note II.</p>
 
@@ -53,8 +53,7 @@
 
 <p>现在的工作，很少有不需要整天对着电脑的。这在二十年前还是不可想象的。互联网、手机等等科技发展的产物深刻改变了人们获取信息、沟通交流的方式。我工作在互联网领域，每天的工作都需要对着电脑，然后回到家里还是会有很长时间对着电脑。</p>
 
-<blockquote><p>每天我们都会像一个优盘一样，在虚拟网络上插拔。庞大的网络海洋几乎淹没了我们作为个体的存在，信息本来应该以人为中心，但是洪水般的信息海让我们成为孤岛，让网络成为中心。为了 和世界沟通，我们不得不像优盘这样的信息载体一样过着plugged in lives.</p><footer><strong>Sherry Turkle</strong> <cite><a href='http://www.douban.com/group/topic/30500353/'>www.douban.com/group/topic/&hellip;</a></cite></footer></blockquote>
-
+<p><blockquote><p>每天我们都会像一个优盘一样，在虚拟网络上插拔。庞大的网络海洋几乎淹没了我们作为个体的存在，信息本来应该以人为中心，但是洪水般的信息海让我们成为孤岛，让网络成为中心。为了 和世界沟通，我们不得不像优盘这样的信息载体一样过着plugged in lives.</p><footer><strong>Sherry Turkle</strong> <cite><a href='http://www.douban.com/group/topic/30500353/'>www.douban.com/group/topic/&hellip;</a></cite></footer></blockquote></p>
 
 <p>与几十年前相比，我不知道这种生活是更美好还是更糟糕了。</p>
 
@@ -72,15 +71,11 @@
 
 <h2>遗失的美好</h2>
 
-<p>我很想送李白和杜甫一对手机，这样杜甫在思念李白时，他就可以打电话给李白谈谈诗句和文章了：</p>
+<p>我很想送李白和杜甫一对手机，这样杜甫在思念李白时，他就可以打电话给李白谈谈诗句和文章了：
+<blockquote><p>白也诗无敌，飘然思不群。清新庾开府，俊逸鲍参军。渭北春天树，江东日暮云。何时一尊酒，重与细论文。</p><footer><strong>杜甫</strong> <cite>春日忆李白</cite></footer></blockquote></p>
 
-<blockquote><p>白也诗无敌，飘然思不群。清新庾开府，俊逸鲍参军。渭北春天树，江东日暮云。何时一尊酒，重与细论文。</p><footer><strong>杜甫</strong> <cite>春日忆李白</cite></footer></blockquote>
-
-
-<p>我很想送李之仪和他的爱人一对手机，这样他们就可以互诉衷肠，不用再饱受相思之苦：</p>
-
-<blockquote><p>我住长江头，君住长江尾。 日日思君不见君，共饮长江水。此水几时休？此恨何时已？只愿君心似我心，定不负相思意。</p><footer><strong>李之仪</strong> <cite>卜算子·我住长江头</cite></footer></blockquote>
-
+<p>我很想送李之仪和他的爱人一对手机，这样他们就可以互诉衷肠，不用再饱受相思之苦：
+<blockquote><p>我住长江头，君住长江尾。 日日思君不见君，共饮长江水。此水几时休？此恨何时已？只愿君心似我心，定不负相思意。</p><footer><strong>李之仪</strong> <cite>卜算子·我住长江头</cite></footer></blockquote></p>
 
 <p>而二十年前的某对恋人他们也许也需要手机，这样他们不用为了一次约会而提前一个星期写信订好时间地点，在那个男孩因为某个变故而无法赴约时，他可以打个电话给那个女孩，告诉她取消这次约会，不用再让她在那儿等上一天。</p>
 
@@ -129,7 +124,7 @@
 
 <p>很喜欢<a href="http://www.douban.com/note/64005602/">_why</a>的一句话：</p>
 
-<blockquote><p>when you don&#8217;t create things, you become defined by your tastes rather than ability. your tastes only narrow &amp; exclude people. so create.</p></blockquote>
+<blockquote><p>when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow &amp; exclude people. so create.</p></blockquote>
 
 <p>文艺青年喜欢用读过什么书、看过什么电影、听过什么音乐来彰显自己的品位。这可以让他们找到认同感。但如果读更多的书、听更多的音乐没有让你变得更有教养，更有修养，更有涵养，那么这一切都是毫无意义的。更重要的是，如果读书、听音乐不能有助你做出伟大的创造，那么这一切都是毫无意义的。</p>
 
@@ -145,7 +140,7 @@
 
 <p>我需要举行一场<a href="#yishigan">仪式</a>来拯救自己。也许这（写博客）也是这个仪式的一部分。我需要些安静的时刻，和自己说说话，重新听听内心深处发出的声音：</p>
 
-<blockquote><p>O God, I could be bounded in a nutshell and count myself a king of infinite space&#8230;</p></blockquote>
+<blockquote><p>O God, I could be bounded in a nutshell and count myself a king of infinite space...</p></blockquote>
 
 <p>I wanna create——这场仪式会对我有所帮助吗？</p>
 ]]></content>
